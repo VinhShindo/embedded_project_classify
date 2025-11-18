@@ -7,7 +7,7 @@
     <hr style="border-top: 3px solid #007bff;">
     <h2 style="color: #dc3545; margin-top: 0;">
             <i class="fas fa-bullhorn"></i> POSTER TÓM TẮT DỰ ÁN
-            <img width="1453" height="1080" h![Poster_Nhom5 pptx](https://github.com/user-attachments/assets/918849f8-eb59-45aa-98fb-516acb37c87d)        
+            <img width="1453" height="1080" src="https://github.com/user-attachments/assets/918849f8-eb59-45aa-98fb-516acb37c87d"/>      
         </h2>
         <hr style="border-top: 2px solid #dc3545; width: 50%;">
     <h2 align="center" style="color: #28a745;">
