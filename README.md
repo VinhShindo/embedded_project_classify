@@ -5,6 +5,11 @@
     <p>Dự án mô phỏng cánh tay robot công nghiệp tự động phát hiện, phân loại và sắp xếp các vật thể dựa trên Màu
         sắc và Hình dạng trên băng tải.</p>
     <hr style="border-top: 3px solid #007bff;">
+    <h2 style="color: #dc3545; margin-top: 0;">
+            <i class="fas fa-bullhorn"></i> POSTER TÓM TẮT DỰ ÁN
+            <img width="1453" height="807" alt="image" src="https://github.com/user-attachments/assets/662662bf-9725-4eda-b340-459b847f23c0" />
+        </h2>
+        <hr style="border-top: 2px solid #dc3545; width: 50%;">
     <h2 align="center" style="color: #28a745;">
         <i class="fas fa-search"></i> 🔎 Quá Trình Phát Hiện và Phân Loại
     </h2>
